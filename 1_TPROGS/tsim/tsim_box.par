@@ -1,0 +1,23 @@
+4
+0.100 0.350 0.250 0.300
+../tsim/output_test/tsim_box.asc
+2
+2
+../tsim/output_test/tsim.dbg
+4175
+1
+0.0 120 160.0
+0.0 60 100.0
+0.0 625 0.40
+1 2
+1
+0.001
+../mcmod/mcmod_box_KR_tp_xyz.bgr
+../mcmod/mcmod_box_KR_det.bgr
+D:/TPROGS/T-PROGS_6/data/box.eas
+0. 0.
+0. 0.
+junk.bgr
+junk.bgr
+4 9.449762882960696e-5  0
+0.63

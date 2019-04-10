@@ -1,0 +1,1685 @@
+ Dimensions of tr. pr. model file:           37          41          33
+           4           4
+ No Azimuth file
+ Probabilies for categories:
+  Category  1: 0.100
+  Category  2: 0.350
+  Category  3: 0.250
+  Category  4: 0.300
+ Determining lookup order using ../mcmod/mcmod_box_KR_det.bgr                                                                       
+ Setting quenching lags (x,y,z):
+   -1   -1   -1
+    0   -1   -1
+    1   -1   -1
+   -1    0   -1
+    0    0   -1
+    1    0   -1
+   -1    1   -1
+    0    1   -1
+    1    1   -1
+   -1   -1    0
+    0   -1    0
+    1   -1    0
+   -1    0    0
+    1    0    0
+   -1    1    0
+    0    1    0
+    1    1    0
+   -1   -1    1
+    0   -1    1
+    1   -1    1
+   -1    0    1
+    0    0    1
+    1    0    1
+   -1    1    1
+    0    1    1
+    1    1    1
+    0    2    0
+    0   -2    0
+   -2    0    0
+    2    0    0
+    1   -2    0
+   -1    2    0
+    1    2    0
+   -1   -2    0
+    0   -2    1
+    0    2   -1
+    0    2    1
+    0   -2   -1
+    2   -1    0
+   -2    1    0
+    2    1    0
+   -2   -1    0
+    0    0    2
+    0    0   -2
+   -2    0    1
+    2    0   -1
+    2    0    1
+   -2    0   -1
+    1   -2    1
+   -1    2   -1
+   -1   -2    1
+    1    2   -1
+    1   -2   -1
+   -1    2    1
+    1    2    1
+   -1   -2   -1
+    0   -1    2
+    0    1   -2
+    0   -1   -2
+    0    1    2
+    1    0   -2
+   -1    0    2
+   -2    1    1
+    2   -1   -1
+   -2   -1    1
+    2    1   -1
+    2   -1    1
+   -2    1   -1
+   -1    0   -2
+    1    0    2
+   -2   -1   -1
+    2    1    1
+    1    1   -2
+   -1   -1    2
+   -1    1    2
+    1   -1   -2
+    1   -1    2
+   -1    1   -2
+   -1   -1   -2
+    1    1    2
+    2   -2    0
+   -2    2    0
+    0   -3    0
+    0    3    0
+   -2   -2    0
+    2    2    0
+ Total # of quenching lags=          86
+TP s for quenching lag  1:
+ 0.072 0.038 0.009-0.018
+ 0.019 0.294 0.028 0.009
+ 0.005 0.027 0.192 0.027
+ 0.004-0.008 0.022 0.283
+TP s for quenching lag  2:
+ 0.076 0.033 0.007-0.017
+ 0.016 0.301 0.024 0.009
+ 0.004 0.023 0.201 0.022
+ 0.004-0.008 0.018 0.286
+TP s for quenching lag  3:
+ 0.072 0.033 0.008-0.013
+ 0.026 0.295 0.027 0.002
+ 0.006 0.028 0.192 0.024
+-0.004-0.006 0.023 0.287
+TP s for quenching lag  4:
+ 0.076 0.032 0.008-0.016
+ 0.016 0.304 0.026 0.004
+ 0.004 0.022 0.196 0.029
+ 0.004-0.007 0.020 0.283
+TP s for quenching lag  5:
+ 0.082 0.024 0.007-0.013
+ 0.012 0.315 0.021 0.002
+ 0.003 0.017 0.206 0.024
+ 0.003-0.006 0.016 0.287
+TP s for quenching lag  6:
+ 0.077 0.026 0.007-0.009
+ 0.024 0.305 0.025-0.004
+ 0.006 0.023 0.196 0.026
+-0.007-0.003 0.022 0.288
+TP s for quenching lag  7:
+ 0.072 0.032 0.009-0.013
+ 0.027 0.295 0.030-0.003
+ 0.005 0.024 0.192 0.029
+-0.005-0.001 0.019 0.287
+TP s for quenching lag  8:
+ 0.077 0.025 0.007-0.009
+ 0.026 0.302 0.027-0.005
+ 0.005 0.020 0.201 0.025
+-0.007 0.002 0.016 0.290
+TP s for quenching lag  9:
+ 0.073 0.027 0.007-0.007
+ 0.032 0.295 0.030-0.007
+ 0.007 0.025 0.192 0.026
+-0.012 0.003 0.021 0.288
+TP s for quenching lag 10:
+ 0.076 0.032 0.006-0.015
+ 0.016 0.303 0.021 0.011
+ 0.004 0.023 0.207 0.016
+ 0.004-0.008 0.016 0.288
+TP s for quenching lag 11:
+ 0.082 0.025 0.004-0.011
+ 0.012 0.313 0.012 0.012
+ 0.003 0.018 0.224 0.005
+ 0.003-0.006 0.010 0.294
+TP s for quenching lag 12:
+ 0.077 0.026 0.005-0.007
+ 0.024 0.304 0.020 0.003
+ 0.006 0.024 0.207 0.013
+-0.007-0.004 0.019 0.292
+TP s for quenching lag 13:
+ 0.082 0.023 0.005-0.010
+ 0.012 0.317 0.017 0.004
+ 0.003 0.016 0.214 0.017
+ 0.003-0.005 0.013 0.289
+TP s for quenching lag 14:
+ 0.082 0.012 0.003 0.003
+ 0.023 0.317 0.016-0.005
+ 0.005 0.017 0.214 0.013
+-0.010 0.004 0.017 0.289
+TP s for quenching lag 15:
+ 0.077 0.024 0.006-0.007
+ 0.026 0.304 0.024-0.004
+ 0.005 0.020 0.207 0.019
+-0.007 0.003 0.013 0.292
+TP s for quenching lag 16:
+ 0.082 0.012 0.003 0.003
+ 0.025 0.313 0.018-0.006
+ 0.004 0.012 0.224 0.010
+-0.011 0.012 0.005 0.294
+TP s for quenching lag 17:
+ 0.076 0.016 0.004 0.004
+ 0.032 0.303 0.023-0.008
+ 0.006 0.021 0.207 0.016
+-0.015 0.011 0.016 0.288
+TP s for quenching lag 18:
+ 0.073 0.032 0.007-0.012
+ 0.027 0.295 0.025 0.003
+ 0.007 0.030 0.192 0.021
+-0.007-0.007 0.026 0.288
+TP s for quenching lag 19:
+ 0.077 0.026 0.005-0.007
+ 0.025 0.302 0.020 0.002
+ 0.007 0.027 0.201 0.016
+-0.009-0.005 0.025 0.290
+TP s for quenching lag 20:
+ 0.072 0.027 0.005-0.005
+ 0.032 0.295 0.024-0.001
+ 0.009 0.030 0.192 0.019
+-0.013-0.003 0.029 0.287
+TP s for quenching lag 21:
+ 0.077 0.024 0.006-0.007
+ 0.026 0.305 0.023-0.003
+ 0.007 0.025 0.196 0.022
+-0.009-0.004 0.026 0.288
+TP s for quenching lag 22:
+ 0.082 0.012 0.003 0.003
+ 0.024 0.315 0.017-0.006
+ 0.007 0.021 0.206 0.016
+-0.013 0.002 0.024 0.287
+TP s for quenching lag 23:
+ 0.076 0.016 0.004 0.004
+ 0.032 0.304 0.022-0.007
+ 0.008 0.026 0.196 0.020
+-0.016 0.004 0.029 0.283
+TP s for quenching lag 24:
+ 0.072 0.026 0.006-0.004
+ 0.033 0.295 0.028-0.006
+ 0.008 0.027 0.192 0.023
+-0.013 0.002 0.024 0.287
+TP s for quenching lag 25:
+ 0.076 0.016 0.004 0.004
+ 0.033 0.301 0.023-0.008
+ 0.007 0.024 0.201 0.018
+-0.017 0.009 0.022 0.286
+TP s for quenching lag 26:
+ 0.072 0.019 0.005 0.004
+ 0.038 0.294 0.027-0.008
+ 0.009 0.028 0.192 0.022
+-0.018 0.009 0.027 0.283
+TP s for quenching lag 27:
+ 0.069 0.021 0.006 0.005
+ 0.043 0.284 0.033-0.010
+ 0.007 0.023 0.202 0.018
+-0.019 0.022 0.009 0.288
+TP s for quenching lag 28:
+ 0.069 0.043 0.007-0.019
+ 0.021 0.284 0.023 0.022
+ 0.006 0.033 0.202 0.009
+ 0.005-0.010 0.018 0.288
+TP s for quenching lag 29:
+ 0.068 0.040 0.010-0.018
+ 0.021 0.291 0.031 0.007
+ 0.006 0.028 0.185 0.031
+ 0.005-0.009 0.024 0.280
+TP s for quenching lag 30:
+ 0.068 0.021 0.006 0.005
+ 0.040 0.291 0.028-0.009
+ 0.010 0.031 0.185 0.024
+-0.018 0.007 0.031 0.280
+TP s for quenching lag 31:
+ 0.066 0.043 0.007-0.017
+ 0.028 0.281 0.027 0.015
+ 0.008 0.036 0.193 0.014
+-0.002-0.010 0.023 0.288
+TP s for quenching lag 32:
+ 0.066 0.028 0.008-0.002
+ 0.043 0.281 0.036-0.010
+ 0.007 0.027 0.193 0.023
+-0.017 0.015 0.014 0.288
+TP s for quenching lag 33:
+ 0.066 0.023 0.006 0.005
+ 0.046 0.279 0.035-0.011
+ 0.009 0.028 0.193 0.021
+-0.021 0.020 0.016 0.284
+TP s for quenching lag 34:
+ 0.066 0.046 0.009-0.021
+ 0.023 0.279 0.028 0.020
+ 0.006 0.035 0.193 0.016
+ 0.005-0.011 0.021 0.284
+TP s for quenching lag 35:
+ 0.067 0.043 0.007-0.017
+ 0.029 0.280 0.027 0.014
+ 0.008 0.037 0.188 0.016
+-0.004-0.011 0.027 0.287
+TP s for quenching lag 36:
+ 0.067 0.029 0.008-0.004
+ 0.043 0.280 0.037-0.011
+ 0.007 0.027 0.188 0.027
+-0.017 0.014 0.016 0.287
+TP s for quenching lag 37:
+ 0.066 0.023 0.006 0.005
+ 0.047 0.279 0.035-0.010
+ 0.009 0.030 0.188 0.023
+-0.022 0.019 0.021 0.283
+TP s for quenching lag 38:
+ 0.066 0.047 0.009-0.022
+ 0.023 0.279 0.030 0.019
+ 0.006 0.035 0.188 0.021
+ 0.005-0.010 0.023 0.283
+TP s for quenching lag 39:
+ 0.066 0.029 0.006-0.002
+ 0.040 0.285 0.030-0.005
+ 0.010 0.035 0.182 0.024
+-0.016 0.001 0.032 0.283
+TP s for quenching lag 40:
+ 0.066 0.040 0.010-0.016
+ 0.029 0.285 0.035 0.001
+ 0.006 0.030 0.182 0.032
+-0.002-0.005 0.024 0.283
+TP s for quenching lag 41:
+ 0.066 0.023 0.006 0.005
+ 0.044 0.284 0.032-0.010
+ 0.010 0.033 0.182 0.025
+-0.020 0.011 0.030 0.279
+TP s for quenching lag 42:
+ 0.066 0.044 0.010-0.020
+ 0.023 0.284 0.033 0.011
+ 0.006 0.032 0.182 0.030
+ 0.005-0.010 0.025 0.279
+TP s for quenching lag 43:
+ 0.069 0.021 0.006 0.005
+ 0.043 0.287 0.029-0.009
+ 0.012 0.037 0.172 0.029
+-0.023 0.004 0.043 0.275
+TP s for quenching lag 44:
+ 0.069 0.043 0.012-0.023
+ 0.021 0.287 0.037 0.004
+ 0.006 0.029 0.172 0.043
+ 0.005-0.009 0.029 0.275
+TP s for quenching lag 45:
+ 0.066 0.040 0.010-0.016
+ 0.029 0.286 0.034 0.001
+ 0.008 0.033 0.176 0.033
+-0.003-0.009 0.031 0.282
+TP s for quenching lag 46:
+ 0.066 0.029 0.008-0.003
+ 0.040 0.286 0.033-0.009
+ 0.010 0.034 0.176 0.031
+-0.016 0.001 0.033 0.282
+TP s for quenching lag 47:
+ 0.066 0.023 0.006 0.005
+ 0.044 0.284 0.031-0.009
+ 0.011 0.036 0.176 0.028
+-0.021 0.007 0.037 0.277
+TP s for quenching lag 48:
+ 0.066 0.044 0.011-0.021
+ 0.023 0.284 0.036 0.007
+ 0.006 0.031 0.176 0.037
+ 0.005-0.009 0.028 0.277
+TP s for quenching lag 49:
+ 0.064 0.043 0.008-0.015
+ 0.033 0.277 0.030 0.010
+ 0.010 0.039 0.182 0.019
+-0.007-0.010 0.031 0.287
+TP s for quenching lag 50:
+ 0.064 0.033 0.010-0.007
+ 0.043 0.277 0.039-0.010
+ 0.008 0.030 0.182 0.031
+-0.015 0.010 0.019 0.287
+TP s for quenching lag 51:
+ 0.064 0.046 0.009-0.019
+ 0.030 0.276 0.031 0.013
+ 0.009 0.039 0.182 0.021
+-0.002-0.011 0.029 0.285
+TP s for quenching lag 52:
+ 0.064 0.030 0.009-0.002
+ 0.046 0.276 0.039-0.011
+ 0.009 0.031 0.182 0.029
+-0.019 0.013 0.021 0.285
+TP s for quenching lag 53:
+ 0.064 0.047 0.009-0.020
+ 0.029 0.276 0.032 0.013
+ 0.008 0.037 0.182 0.023
+-0.001-0.010 0.027 0.284
+TP s for quenching lag 54:
+ 0.064 0.029 0.008-0.001
+ 0.047 0.276 0.037-0.010
+ 0.009 0.032 0.182 0.027
+-0.020 0.013 0.023 0.284
+TP s for quenching lag 55:
+ 0.063 0.024 0.007 0.005
+ 0.049 0.275 0.037-0.011
+ 0.010 0.033 0.182 0.025
+-0.023 0.018 0.025 0.280
+TP s for quenching lag 56:
+ 0.063 0.049 0.010-0.023
+ 0.024 0.275 0.033 0.018
+ 0.007 0.037 0.182 0.025
+ 0.005-0.011 0.025 0.280
+TP s for quenching lag 57:
+ 0.067 0.029 0.006-0.002
+ 0.042 0.283 0.031-0.005
+ 0.012 0.040 0.170 0.028
+-0.021-0.002 0.043 0.279
+TP s for quenching lag 58:
+ 0.067 0.042 0.012-0.021
+ 0.029 0.283 0.040-0.002
+ 0.006 0.031 0.170 0.043
+-0.002-0.005 0.028 0.279
+TP s for quenching lag 59:
+ 0.066 0.046 0.012-0.024
+ 0.023 0.281 0.038 0.008
+ 0.006 0.032 0.170 0.042
+ 0.005-0.009 0.030 0.275
+TP s for quenching lag 60:
+ 0.066 0.023 0.006 0.005
+ 0.046 0.281 0.032-0.009
+ 0.012 0.038 0.170 0.030
+-0.024 0.008 0.042 0.275
+TP s for quenching lag 61:
+ 0.066 0.043 0.012-0.021
+ 0.028 0.284 0.039-0.001
+ 0.007 0.032 0.168 0.043
+-0.002-0.008 0.031 0.278
+TP s for quenching lag 62:
+ 0.066 0.028 0.007-0.002
+ 0.043 0.284 0.032-0.008
+ 0.012 0.039 0.168 0.031
+-0.021-0.001 0.043 0.278
+TP s for quenching lag 63:
+ 0.064 0.040 0.010-0.014
+ 0.035 0.281 0.037-0.002
+ 0.009 0.035 0.173 0.033
+-0.008-0.005 0.030 0.283
+TP s for quenching lag 64:
+ 0.064 0.035 0.009-0.008
+ 0.040 0.281 0.035-0.005
+ 0.010 0.037 0.173 0.030
+-0.014-0.002 0.033 0.283
+TP s for quenching lag 65:
+ 0.064 0.044 0.010-0.018
+ 0.030 0.280 0.035 0.005
+ 0.008 0.036 0.173 0.032
+-0.002-0.010 0.031 0.281
+TP s for quenching lag 66:
+ 0.064 0.030 0.008-0.002
+ 0.044 0.280 0.036-0.010
+ 0.010 0.035 0.173 0.031
+-0.018 0.005 0.032 0.281
+TP s for quenching lag 67:
+ 0.064 0.030 0.007-0.001
+ 0.044 0.280 0.032-0.006
+ 0.011 0.038 0.173 0.027
+-0.019 0.001 0.037 0.280
+TP s for quenching lag 68:
+ 0.064 0.044 0.011-0.019
+ 0.030 0.280 0.038 0.001
+ 0.007 0.032 0.173 0.037
+-0.001-0.006 0.027 0.280
+TP s for quenching lag 69:
+ 0.066 0.046 0.012-0.024
+ 0.023 0.282 0.039 0.005
+ 0.006 0.031 0.168 0.045
+ 0.005-0.009 0.030 0.274
+TP s for quenching lag 70:
+ 0.066 0.023 0.006 0.005
+ 0.046 0.282 0.031-0.009
+ 0.012 0.039 0.168 0.030
+-0.024 0.005 0.045 0.274
+TP s for quenching lag 71:
+ 0.063 0.047 0.011-0.022
+ 0.024 0.279 0.037 0.010
+ 0.007 0.034 0.173 0.036
+ 0.005-0.010 0.028 0.276
+TP s for quenching lag 72:
+ 0.063 0.024 0.007 0.005
+ 0.047 0.279 0.034-0.010
+ 0.011 0.037 0.173 0.028
+-0.022 0.010 0.036 0.276
+TP s for quenching lag 73:
+ 0.064 0.042 0.012-0.019
+ 0.034 0.279 0.041-0.004
+ 0.008 0.033 0.166 0.043
+-0.006-0.005 0.031 0.280
+TP s for quenching lag 74:
+ 0.064 0.034 0.008-0.006
+ 0.042 0.279 0.033-0.005
+ 0.012 0.041 0.166 0.031
+-0.019-0.004 0.043 0.280
+TP s for quenching lag 75:
+ 0.064 0.029 0.008-0.001
+ 0.046 0.278 0.035-0.009
+ 0.012 0.040 0.166 0.032
+-0.022 0.003 0.042 0.278
+TP s for quenching lag 76:
+ 0.064 0.046 0.012-0.022
+ 0.029 0.278 0.040 0.003
+ 0.008 0.035 0.166 0.042
+-0.001-0.009 0.032 0.278
+TP s for quenching lag 77:
+ 0.064 0.030 0.007-0.001
+ 0.045 0.278 0.033-0.006
+ 0.013 0.042 0.166 0.030
+-0.022-0.000 0.045 0.278
+TP s for quenching lag 78:
+ 0.064 0.045 0.013-0.022
+ 0.030 0.278 0.042-0.000
+ 0.007 0.033 0.166 0.045
+-0.001-0.006 0.030 0.278
+TP s for quenching lag 79:
+ 0.063 0.049 0.013-0.025
+ 0.024 0.277 0.040 0.008
+ 0.007 0.034 0.166 0.043
+ 0.005-0.010 0.031 0.273
+TP s for quenching lag 80:
+ 0.063 0.024 0.007 0.005
+ 0.049 0.277 0.034-0.010
+ 0.013 0.040 0.166 0.031
+-0.025 0.008 0.043 0.273
+TP s for quenching lag 81:
+ 0.061 0.043 0.008-0.012
+ 0.040 0.271 0.034 0.004
+ 0.011 0.042 0.174 0.023
+-0.012-0.007 0.033 0.285
+TP s for quenching lag 82:
+ 0.061 0.040 0.011-0.012
+ 0.043 0.271 0.042-0.007
+ 0.008 0.034 0.174 0.033
+-0.012 0.004 0.023 0.285
+TP s for quenching lag 83:
+ 0.058 0.057 0.010-0.025
+ 0.028 0.261 0.032 0.030
+ 0.008 0.045 0.183 0.014
+ 0.006-0.013 0.025 0.281
+TP s for quenching lag 84:
+ 0.058 0.028 0.008 0.006
+ 0.057 0.261 0.045-0.013
+ 0.010 0.032 0.183 0.025
+-0.025 0.030 0.014 0.281
+TP s for quenching lag 85:
+ 0.059 0.053 0.011-0.024
+ 0.027 0.269 0.036 0.018
+ 0.008 0.040 0.174 0.029
+ 0.006-0.011 0.028 0.277
+TP s for quenching lag 86:
+ 0.059 0.027 0.008 0.006
+ 0.053 0.269 0.040-0.011
+ 0.011 0.036 0.174 0.028
+-0.024 0.018 0.029 0.277
+ 
+ The random number generator to generate the path:
+         r(i) = 5*r(i-1)+1 mod      8388608
+  Starting simulation            1
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090405166
+    Objective function at pass  2:  0.026433112
+    Objective function at pass  3:  0.015505398
+    Objective function at pass  4:  0.011875470
+Done with simulation   1 named ../tsim/output/tsim_box.asc1                                                                        
+Order Relations Violations for Simulation  1:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4127996    350507         0
+Total:      645192.3  194148.6       0.0
+Average:  0.156297  0.553908  0.000000
+  Starting simulation            2
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.087536156
+    Objective function at pass  2:  0.026303612
+    Objective function at pass  3:  0.015170633
+    Objective function at pass  4:  0.011836129
+Done with simulation   2 named ../tsim/output/tsim_box.asc2                                                                        
+Order Relations Violations for Simulation  2:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4120255    348424         0
+Total:      642046.8  191926.2       0.0
+Average:  0.155827  0.550841  0.000000
+  Starting simulation            3
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091578707
+    Objective function at pass  2:  0.026960755
+    Objective function at pass  3:  0.015479366
+    Objective function at pass  4:  0.011810116
+Done with simulation   3 named ../tsim/output/tsim_box.asc3                                                                        
+Order Relations Violations for Simulation  3:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4114562    348145         0
+Total:      641741.6  192685.9       0.0
+Average:  0.155968  0.553464  0.000000
+  Starting simulation            4
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.087462388
+    Objective function at pass  2:  0.028870525
+    Objective function at pass  3:  0.017213391
+    Objective function at pass  4:  0.012564007
+Done with simulation   4 named ../tsim/output/tsim_box.asc4                                                                        
+Order Relations Violations for Simulation  4:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4127377    351092         0
+Total:      646749.7  194639.5       0.0
+Average:  0.156698  0.554383  0.000000
+  Starting simulation            5
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090638444
+    Objective function at pass  2:  0.029882319
+    Objective function at pass  3:  0.018041847
+    Objective function at pass  4:  0.013472662
+Done with simulation   5 named ../tsim/output/tsim_box.asc5                                                                        
+Order Relations Violations for Simulation  5:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4126836    350996         0
+Total:      646866.9  194576.2       0.0
+Average:  0.156746  0.554354  0.000000
+  Starting simulation            6
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090681016
+    Objective function at pass  2:  0.029349320
+    Objective function at pass  3:  0.017306583
+    Objective function at pass  4:  0.013265180
+Done with simulation   6 named ../tsim/output/tsim_box.asc6                                                                        
+Order Relations Violations for Simulation  6:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4105111    344824         0
+Total:      639592.9  191616.4       0.0
+Average:  0.155804  0.555693  0.000000
+  Starting simulation            7
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.095933773
+    Objective function at pass  2:  0.029850498
+    Objective function at pass  3:  0.017241843
+    Objective function at pass  4:  0.012973409
+Done with simulation   7 named ../tsim/output/tsim_box.asc7                                                                        
+Order Relations Violations for Simulation  7:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4133391    352265         0
+Total:      648838.8  195347.5       0.0
+Average:  0.156975  0.554547  0.000000
+  Starting simulation            8
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089064628
+    Objective function at pass  2:  0.026345795
+    Objective function at pass  3:  0.015259666
+    Objective function at pass  4:  0.011698185
+Done with simulation   8 named ../tsim/output/tsim_box.asc8                                                                        
+Order Relations Violations for Simulation  8:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4113033    347616         0
+Total:      641625.6  192491.7       0.0
+Average:  0.155998  0.553748  0.000000
+  Starting simulation            9
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.086760812
+    Objective function at pass  2:  0.028544340
+    Objective function at pass  3:  0.016818473
+    Objective function at pass  4:  0.012744214
+Done with simulation   9 named ../tsim/output/tsim_box.asc9                                                                        
+Order Relations Violations for Simulation  9:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4142928    353626         0
+Total:      651214.8  196746.6       0.0
+Average:  0.157187  0.556369  0.000000
+  Starting simulation           10
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.088815033
+    Objective function at pass  2:  0.026204800
+    Objective function at pass  3:  0.015869578
+    Objective function at pass  4:  0.012251397
+Done with simulation  10 named ../tsim/output/tsim_box.asc10                                                                       
+Order Relations Violations for Simulation 10:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4144795    352969         0
+Total:      650309.6  196405.7       0.0
+Average:  0.156898  0.556439  0.000000
+  Starting simulation           11
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089783281
+    Objective function at pass  2:  0.029347043
+    Objective function at pass  3:  0.017625745
+    Objective function at pass  4:  0.013062134
+Done with simulation  11 named ../tsim/output/tsim_box.asc11                                                                       
+Order Relations Violations for Simulation 11:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4140746    353625         0
+Total:      650280.4  195591.5       0.0
+Average:  0.157044  0.553104  0.000000
+  Starting simulation           12
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.094542749
+    Objective function at pass  2:  0.030558549
+    Objective function at pass  3:  0.017665884
+    Objective function at pass  4:  0.013406833
+Done with simulation  12 named ../tsim/output/tsim_box.asc12                                                                       
+Order Relations Violations for Simulation 12:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4118017    348932         0
+Total:      643343.1  193192.3       0.0
+Average:  0.156226  0.553667  0.000000
+  Starting simulation           13
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091520116
+    Objective function at pass  2:  0.029154785
+    Objective function at pass  3:  0.017080169
+    Objective function at pass  4:  0.012814091
+Done with simulation  13 named ../tsim/output/tsim_box.asc13                                                                       
+Order Relations Violations for Simulation 13:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4123818    348282         0
+Total:      642214.0  193058.1       0.0
+Average:  0.155733  0.554316  0.000000
+  Starting simulation           14
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.092419416
+    Objective function at pass  2:  0.028053105
+    Objective function at pass  3:  0.017077152
+    Objective function at pass  4:  0.012995486
+Done with simulation  14 named ../tsim/output/tsim_box.asc14                                                                       
+Order Relations Violations for Simulation 14:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4089338    345595         0
+Total:      638342.4  190626.9       0.0
+Average:  0.156099  0.551591  0.000000
+  Starting simulation           15
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.094840378
+    Objective function at pass  2:  0.030546449
+    Objective function at pass  3:  0.018327573
+    Objective function at pass  4:  0.013697429
+Done with simulation  15 named ../tsim/output/tsim_box.asc15                                                                       
+Order Relations Violations for Simulation 15:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4119647    350102         0
+Total:      645551.9  193785.7       0.0
+Average:  0.156701  0.553512  0.000000
+  Starting simulation           16
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091311127
+    Objective function at pass  2:  0.029917559
+    Objective function at pass  3:  0.016871270
+    Objective function at pass  4:  0.012720138
+Done with simulation  16 named ../tsim/output/tsim_box.asc16                                                                       
+Order Relations Violations for Simulation 16:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4109566    350031         0
+Total:      646025.8  193902.7       0.0
+Average:  0.157200  0.553959  0.000000
+  Starting simulation           17
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.094807565
+    Objective function at pass  2:  0.031251937
+    Objective function at pass  3:  0.017413033
+    Objective function at pass  4:  0.013194418
+Done with simulation  17 named ../tsim/output/tsim_box.asc17                                                                       
+Order Relations Violations for Simulation 17:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4104556    349251         0
+Total:      643901.7  193198.8       0.0
+Average:  0.156875  0.553180  0.000000
+  Starting simulation           18
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090498820
+    Objective function at pass  2:  0.027150929
+    Objective function at pass  3:  0.015776863
+    Objective function at pass  4:  0.012146932
+Done with simulation  18 named ../tsim/output/tsim_box.asc18                                                                       
+Order Relations Violations for Simulation 18:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4119360    351358         0
+Total:      648270.6  194754.1       0.0
+Average:  0.157372  0.554290  0.000000
+  Starting simulation           19
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.087228432
+    Objective function at pass  2:  0.027634030
+    Objective function at pass  3:  0.016263247
+    Objective function at pass  4:  0.012190446
+Done with simulation  19 named ../tsim/output/tsim_box.asc19                                                                       
+Order Relations Violations for Simulation 19:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4122919    347511         0
+Total:      641804.1  192563.2       0.0
+Average:  0.155667  0.554121  0.000000
+  Starting simulation           20
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.092843331
+    Objective function at pass  2:  0.026650079
+    Objective function at pass  3:  0.016310336
+    Objective function at pass  4:  0.012403278
+Done with simulation  20 named ../tsim/output/tsim_box.asc20                                                                       
+Order Relations Violations for Simulation 20:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4132372    350075         0
+Total:      646181.2  193786.0       0.0
+Average:  0.156371  0.553556  0.000000
+  Starting simulation           21
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.087639779
+    Objective function at pass  2:  0.027335322
+    Objective function at pass  3:  0.016353095
+    Objective function at pass  4:  0.012407076
+Done with simulation  21 named ../tsim/output/tsim_box.asc21                                                                       
+Order Relations Violations for Simulation 21:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4121557    348997         0
+Total:      645021.0  193317.9       0.0
+Average:  0.156499  0.553924  0.000000
+  Starting simulation           22
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089192830
+    Objective function at pass  2:  0.029627498
+    Objective function at pass  3:  0.016694812
+    Objective function at pass  4:  0.012307690
+Done with simulation  22 named ../tsim/output/tsim_box.asc22                                                                       
+Order Relations Violations for Simulation 22:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4121211    351310         0
+Total:      645309.6  194201.8       0.0
+Average:  0.156583  0.552793  0.000000
+  Starting simulation           23
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089814551
+    Objective function at pass  2:  0.029552834
+    Objective function at pass  3:  0.017556509
+    Objective function at pass  4:  0.013382865
+Done with simulation  23 named ../tsim/output/tsim_box.asc23                                                                       
+Order Relations Violations for Simulation 23:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4154901    355661         0
+Total:      655019.1  197638.9       0.0
+Average:  0.157650  0.555695  0.000000
+  Starting simulation           24
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089938454
+    Objective function at pass  2:  0.029787602
+    Objective function at pass  3:  0.017244851
+    Objective function at pass  4:  0.013028678
+Done with simulation  24 named ../tsim/output/tsim_box.asc24                                                                       
+Order Relations Violations for Simulation 24:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4125578    351832         0
+Total:      648416.7  195105.1       0.0
+Average:  0.157170  0.554540  0.000000
+  Starting simulation           25
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.086531155
+    Objective function at pass  2:  0.025595197
+    Objective function at pass  3:  0.014535667
+    Objective function at pass  4:  0.011191022
+Done with simulation  25 named ../tsim/output/tsim_box.asc25                                                                       
+Order Relations Violations for Simulation 25:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4086471    344295         0
+Total:      635374.8  189873.0       0.0
+Average:  0.155483  0.551483  0.000000
+  Starting simulation           26
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091069907
+    Objective function at pass  2:  0.026685026
+    Objective function at pass  3:  0.016812950
+    Objective function at pass  4:  0.012401117
+Done with simulation  26 named ../tsim/output/tsim_box.asc26                                                                       
+Order Relations Violations for Simulation 26:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4102923    346870         0
+Total:      639662.6  191534.8       0.0
+Average:  0.155904  0.552180  0.000000
+  Starting simulation           27
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090155862
+    Objective function at pass  2:  0.027626261
+    Objective function at pass  3:  0.016617030
+    Objective function at pass  4:  0.012642106
+Done with simulation  27 named ../tsim/output/tsim_box.asc27                                                                       
+Order Relations Violations for Simulation 27:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4139962    353188         0
+Total:      650852.4  196670.2       0.0
+Average:  0.157212  0.556843  0.000000
+  Starting simulation           28
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091995552
+    Objective function at pass  2:  0.030643478
+    Objective function at pass  3:  0.018442502
+    Objective function at pass  4:  0.013725209
+Done with simulation  28 named ../tsim/output/tsim_box.asc28                                                                       
+Order Relations Violations for Simulation 28:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4099095    346180         0
+Total:      639222.1  190367.6       0.0
+Average:  0.155942  0.549909  0.000000
+  Starting simulation           29
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090018831
+    Objective function at pass  2:  0.030942097
+    Objective function at pass  3:  0.019305253
+    Objective function at pass  4:  0.014000832
+Done with simulation  29 named ../tsim/output/tsim_box.asc29                                                                       
+Order Relations Violations for Simulation 29:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4194292    361712         0
+Total:      663893.4  202667.0       0.0
+Average:  0.158285  0.560299  0.000000
+  Starting simulation           30
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090442799
+    Objective function at pass  2:  0.029040741
+    Objective function at pass  3:  0.017335156
+    Objective function at pass  4:  0.012892301
+Done with simulation  30 named ../tsim/output/tsim_box.asc30                                                                       
+Order Relations Violations for Simulation 30:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4149160    355033         0
+Total:      653786.7  197673.4       0.0
+Average:  0.157571  0.556775  0.000000
+  Starting simulation           31
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091194175
+    Objective function at pass  2:  0.029354859
+    Objective function at pass  3:  0.016840247
+    Objective function at pass  4:  0.012748267
+Done with simulation  31 named ../tsim/output/tsim_box.asc31                                                                       
+Order Relations Violations for Simulation 31:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4135476    351947         0
+Total:      650056.0  195651.2       0.0
+Average:  0.157190  0.555911  0.000000
+  Starting simulation           32
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.088672437
+    Objective function at pass  2:  0.026250420
+    Objective function at pass  3:  0.016288588
+    Objective function at pass  4:  0.012282601
+Done with simulation  32 named ../tsim/output/tsim_box.asc32                                                                       
+Order Relations Violations for Simulation 32:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4088880    344755         0
+Total:      637079.6  190742.4       0.0
+Average:  0.155808  0.553270  0.000000
+  Starting simulation           33
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.088695213
+    Objective function at pass  2:  0.026471630
+    Objective function at pass  3:  0.016364079
+    Objective function at pass  4:  0.012308140
+Done with simulation  33 named ../tsim/output/tsim_box.asc33                                                                       
+Order Relations Violations for Simulation 33:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4125796    350708         0
+Total:      646740.3  194721.1       0.0
+Average:  0.156755  0.555223  0.000000
+  Starting simulation           34
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090356126
+    Objective function at pass  2:  0.029524880
+    Objective function at pass  3:  0.017872373
+    Objective function at pass  4:  0.012813424
+Done with simulation  34 named ../tsim/output/tsim_box.asc34                                                                       
+Order Relations Violations for Simulation 34:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4082456    342472         0
+Total:      634517.7  188840.9       0.0
+Average:  0.155425  0.551405  0.000000
+  Starting simulation           35
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.088665709
+    Objective function at pass  2:  0.030021707
+    Objective function at pass  3:  0.017862722
+    Objective function at pass  4:  0.013386898
+Done with simulation  35 named ../tsim/output/tsim_box.asc35                                                                       
+Order Relations Violations for Simulation 35:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4113504    348658         0
+Total:      644162.9  192932.0       0.0
+Average:  0.156597  0.553356  0.000000
+  Starting simulation           36
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090791121
+    Objective function at pass  2:  0.027326461
+    Objective function at pass  3:  0.016389215
+    Objective function at pass  4:  0.012672679
+Done with simulation  36 named ../tsim/output/tsim_box.asc36                                                                       
+Order Relations Violations for Simulation 36:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4152926    355448         0
+Total:      653379.2  197918.8       0.0
+Average:  0.157330  0.556815  0.000000
+  Starting simulation           37
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.091810435
+    Objective function at pass  2:  0.027528564
+    Objective function at pass  3:  0.017137809
+    Objective function at pass  4:  0.012555047
+Done with simulation  37 named ../tsim/output/tsim_box.asc37                                                                       
+Order Relations Violations for Simulation 37:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4118249    349439         0
+Total:      645830.4  193871.1       0.0
+Average:  0.156822  0.554807  0.000000
+  Starting simulation           38
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090516455
+    Objective function at pass  2:  0.028217094
+    Objective function at pass  3:  0.016721021
+    Objective function at pass  4:  0.013102850
+Done with simulation  38 named ../tsim/output/tsim_box.asc38                                                                       
+Order Relations Violations for Simulation 38:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4171461    360550         0
+Total:      661766.3  200720.0       0.0
+Average:  0.158641  0.556705  0.000000
+  Starting simulation           39
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.093157522
+    Objective function at pass  2:  0.029742263
+    Objective function at pass  3:  0.017127987
+    Objective function at pass  4:  0.012915560
+Done with simulation  39 named ../tsim/output/tsim_box.asc39                                                                       
+Order Relations Violations for Simulation 39:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4108879    347987         0
+Total:      643337.3  192769.7       0.0
+Average:  0.156572  0.553957  0.000000
+  Starting simulation           40
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.085595846
+    Objective function at pass  2:  0.028240558
+    Objective function at pass  3:  0.017043989
+    Objective function at pass  4:  0.012580417
+Done with simulation  40 named ../tsim/output/tsim_box.asc40                                                                       
+Order Relations Violations for Simulation 40:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4141316    352314         0
+Total:      649002.1  195691.6       0.0
+Average:  0.156714  0.555446  0.000000
+  Starting simulation           41
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.096225739
+    Objective function at pass  2:  0.028364317
+    Objective function at pass  3:  0.017493652
+    Objective function at pass  4:  0.013242805
+Done with simulation  41 named ../tsim/output/tsim_box.asc41                                                                       
+Order Relations Violations for Simulation 41:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4131289    350625         0
+Total:      647820.8  194138.1       0.0
+Average:  0.156808  0.553692  0.000000
+  Starting simulation           42
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089708656
+    Objective function at pass  2:  0.028097965
+    Objective function at pass  3:  0.016909735
+    Objective function at pass  4:  0.013120748
+Done with simulation  42 named ../tsim/output/tsim_box.asc42                                                                       
+Order Relations Violations for Simulation 42:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4147822    353791         0
+Total:      650825.8  196772.2       0.0
+Average:  0.156908  0.556182  0.000000
+  Starting simulation           43
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090929434
+    Objective function at pass  2:  0.027826449
+    Objective function at pass  3:  0.017053407
+    Objective function at pass  4:  0.012734259
+Done with simulation  43 named ../tsim/output/tsim_box.asc43                                                                       
+Order Relations Violations for Simulation 43:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4084153    344851         0
+Total:      637947.5  190704.6       0.0
+Average:  0.156201  0.553006  0.000000
+  Starting simulation           44
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.087482654
+    Objective function at pass  2:  0.025651943
+    Objective function at pass  3:  0.014923844
+    Objective function at pass  4:  0.011649994
+Done with simulation  44 named ../tsim/output/tsim_box.asc44                                                                       
+Order Relations Violations for Simulation 44:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4111160    347973         0
+Total:      642374.4  192625.5       0.0
+Average:  0.156251  0.553564  0.000000
+  Starting simulation           45
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090094052
+    Objective function at pass  2:  0.030241417
+    Objective function at pass  3:  0.018205604
+    Objective function at pass  4:  0.013530857
+Done with simulation  45 named ../tsim/output/tsim_box.asc45                                                                       
+Order Relations Violations for Simulation 45:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4120805    350862         0
+Total:      647234.6  194697.2       0.0
+Average:  0.157065  0.554911  0.000000
+  Starting simulation           46
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.087441288
+    Objective function at pass  2:  0.028333358
+    Objective function at pass  3:  0.016962036
+    Objective function at pass  4:  0.012771629
+Done with simulation  46 named ../tsim/output/tsim_box.asc46                                                                       
+Order Relations Violations for Simulation 46:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4150859    355085         0
+Total:      652622.3  196865.7       0.0
+Average:  0.157226  0.554419  0.000000
+  Starting simulation           47
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.090119600
+    Objective function at pass  2:  0.026895376
+    Objective function at pass  3:  0.015524634
+    Objective function at pass  4:  0.012161133
+Done with simulation  47 named ../tsim/output/tsim_box.asc47                                                                       
+Order Relations Violations for Simulation 47:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4108520    349694         0
+Total:      644467.0  193521.7       0.0
+Average:  0.156861  0.553403  0.000000
+  Starting simulation           48
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.089923762
+    Objective function at pass  2:  0.029867604
+    Objective function at pass  3:  0.017066518
+    Objective function at pass  4:  0.012669818
+Done with simulation  48 named ../tsim/output/tsim_box.asc48                                                                       
+Order Relations Violations for Simulation 48:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4098701    346417         0
+Total:      639178.4  191150.0       0.0
+Average:  0.155947  0.551792  0.000000
+  Starting simulation           49
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.088154674
+    Objective function at pass  2:  0.027680090
+    Objective function at pass  3:  0.016387995
+    Objective function at pass  4:  0.012462734
+Done with simulation  49 named ../tsim/output/tsim_box.asc49                                                                       
+Order Relations Violations for Simulation 49:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4102167    343267         0
+Total:      635633.4  189901.1       0.0
+Average:  0.154951  0.553217  0.000000
+  Starting simulation           50
+  initializing simulation
+  Number of acceptable data  =            0
+  Starting SIS
+  Starting simulated quenching
+    Objective function at pass  1:  0.088956773
+    Objective function at pass  2:  0.026986474
+    Objective function at pass  3:  0.016108913
+    Objective function at pass  4:  0.012201092
+Done with simulation  50 named ../tsim/output/tsim_box.asc50                                                                       
+Order Relations Violations for Simulation 50:
+             .lt.0:    .gt.1:   sum.ne.1:
+Number:      4099838    345632         0
+Total:      637708.8  191130.1       0.0
+Average:  0.155545  0.552987  0.000000
+ Probability Estimate Distribution
+ Prob.              Freq.
+-1.51 0.0005 0.0024 0.0068 0.0003
+-1.50 0.0003 0.0002 0.0000 0.0000
+-1.49 0.0000 0.0000 0.0000 0.0000
+-1.48 0.0000 0.0000 0.0000 0.0002
+-1.47 0.0000 0.0000 0.0000 0.0000
+-1.46 0.0000 0.0000 0.0000 0.0000
+-1.45 0.0001 0.0000 0.0000 0.0000
+-1.44 0.0000 0.0000 0.0000 0.0000
+-1.43 0.0000 0.0000 0.0000 0.0000
+-1.42 0.0000 0.0001 0.0000 0.0000
+-1.41 0.0000 0.0000 0.0000 0.0000
+-1.40 0.0002 0.0000 0.0000 0.0000
+-1.39 0.0000 0.0000 0.0000 0.0000
+-1.38 0.0000 0.0001 0.0000 0.0000
+-1.37 0.0000 0.0000 0.0000 0.0000
+-1.36 0.0000 0.0000 0.0000 0.0000
+-1.35 0.0003 0.0026 0.0026 0.0000
+-1.34 0.0000 0.0000 0.0000 0.0000
+-1.33 0.0000 0.0000 0.0000 0.0000
+-1.32 0.0000 0.0000 0.0001 0.0000
+-1.31 0.0000 0.0000 0.0000 0.0000
+-1.30 0.0000 0.0005 0.0000 0.0000
+-1.29 0.0001 0.0001 0.0000 0.0000
+-1.28 0.0000 0.0000 0.0001 0.0002
+-1.27 0.0000 0.0001 0.0000 0.0000
+-1.26 0.0002 0.0000 0.0013 0.0000
+-1.25 0.0001 0.0000 0.0000 0.0002
+-1.24 0.0000 0.0000 0.0000 0.0001
+-1.23 0.0000 0.0000 0.0000 0.0000
+-1.22 0.0000 0.0000 0.0000 0.0000
+-1.21 0.0000 0.0034 0.0000 0.0000
+-1.20 0.0000 0.0000 0.0000 0.0000
+-1.19 0.0001 0.0000 0.0000 0.0000
+-1.18 0.0000 0.0000 0.0000 0.0000
+-1.17 0.0000 0.0003 0.0000 0.0000
+-1.16 0.0000 0.0000 0.0000 0.0001
+-1.15 0.0000 0.0000 0.0000 0.0000
+-1.14 0.0001 0.0000 0.0003 0.0000
+-1.13 0.0000 0.0000 0.0002 0.0000
+-1.12 0.0000 0.0000 0.0000 0.0000
+-1.11 0.0000 0.0000 0.0001 0.0000
+-1.10 0.0000 0.0000 0.0001 0.0000
+-1.09 0.0001 0.0010 0.0001 0.0000
+-1.08 0.0000 0.0000 0.0000 0.0000
+-1.07 0.0000 0.0000 0.0000 0.0000
+-1.06 0.0000 0.0000 0.0001 0.0000
+-1.05 0.0000 0.0002 0.0000 0.0000
+-1.04 0.0000 0.0001 0.0000 0.0000
+-1.03 0.0000 0.0000 0.0000 0.0000
+-1.02 0.0000 0.0001 0.0001 0.0000
+-1.01 0.0000 0.0000 0.0000 0.0000
+-1.00 0.0001 0.0000 0.0000 0.0000
+-0.99 0.0001 0.0000 0.0000 0.0000
+-0.98 0.0000 0.0001 0.0000 0.0000
+-0.97 0.0001 0.0025 0.0000 0.0000
+-0.96 0.0000 0.0000 0.0000 0.0000
+-0.95 0.0000 0.0000 0.0000 0.0000
+-0.94 0.0002 0.0000 0.0000 0.0000
+-0.93 0.0000 0.0006 0.0000 0.0000
+-0.92 0.0000 0.0002 0.0001 0.0000
+-0.91 0.0000 0.0000 0.0000 0.0000
+-0.90 0.0000 0.0000 0.0020 0.0000
+-0.89 0.0002 0.0000 0.0001 0.0000
+-0.88 0.0000 0.0001 0.0000 0.0000
+-0.87 0.0000 0.0000 0.0001 0.0000
+-0.86 0.0000 0.0000 0.0000 0.0000
+-0.85 0.0000 0.0002 0.0000 0.0000
+-0.84 0.0000 0.0001 0.0000 0.0000
+-0.83 0.0000 0.0000 0.0000 0.0000
+-0.82 0.0002 0.0002 0.0000 0.0000
+-0.81 0.0000 0.0002 0.0003 0.0000
+-0.80 0.0000 0.0002 0.0000 0.0014
+-0.79 0.0003 0.0000 0.0000 0.0000
+-0.78 0.0001 0.0000 0.0001 0.0000
+-0.77 0.0000 0.0002 0.0003 0.0000
+-0.76 0.0001 0.0000 0.0000 0.0000
+-0.75 0.0001 0.0001 0.0001 0.0000
+-0.74 0.0000 0.0002 0.0000 0.0000
+-0.73 0.0001 0.0002 0.0000 0.0000
+-0.72 0.0000 0.0007 0.0001 0.0003
+-0.71 0.0000 0.0003 0.0000 0.0000
+-0.70 0.0000 0.0001 0.0002 0.0000
+-0.69 0.0004 0.0001 0.0002 0.0004
+-0.68 0.0001 0.0001 0.0000 0.0001
+-0.67 0.0001 0.0001 0.0001 0.0001
+-0.66 0.0000 0.0005 0.0004 0.0000
+-0.65 0.0005 0.0000 0.0001 0.0000
+-0.64 0.0001 0.0011 0.0001 0.0002
+-0.63 0.0001 0.0006 0.0009 0.0000
+-0.62 0.0001 0.0001 0.0001 0.0001
+-0.61 0.0001 0.0001 0.0000 0.0000
+-0.60 0.0000 0.0001 0.0001 0.0000
+-0.59 0.0000 0.0001 0.0008 0.0032
+-0.58 0.0001 0.0005 0.0044 0.0000
+-0.57 0.0001 0.0004 0.0006 0.0001
+-0.56 0.0020 0.0001 0.0001 0.0001
+-0.55 0.0001 0.0002 0.0004 0.0001
+-0.54 0.0001 0.0011 0.0001 0.0003
+-0.53 0.0010 0.0001 0.0001 0.0002
+-0.52 0.0001 0.0001 0.0001 0.0001
+-0.51 0.0001 0.0001 0.0000 0.0000
+-0.50 0.0003 0.0002 0.0001 0.0001
+-0.49 0.0003 0.0001 0.0005 0.0026
+-0.48 0.0001 0.0013 0.0026 0.0000
+-0.47 0.0003 0.0002 0.0017 0.0000
+-0.46 0.0003 0.0003 0.0012 0.0000
+-0.45 0.0002 0.0001 0.0002 0.0000
+-0.44 0.0041 0.0013 0.0001 0.0001
+-0.43 0.0017 0.0004 0.0001 0.0002
+-0.42 0.0008 0.0001 0.0010 0.0001
+-0.41 0.0005 0.0003 0.0032 0.0001
+-0.40 0.0004 0.0029 0.0001 0.0000
+-0.39 0.0002 0.0004 0.0002 0.0001
+-0.38 0.0013 0.0002 0.0001 0.0007
+-0.37 0.0005 0.0010 0.0003 0.0001
+-0.36 0.0003 0.0002 0.0002 0.0001
+-0.35 0.0003 0.0013 0.0001 0.0003
+-0.34 0.0002 0.0002 0.0005 0.0002
+-0.33 0.0008 0.0008 0.0005 0.0010
+-0.32 0.0037 0.0009 0.0005 0.0001
+-0.31 0.0034 0.0099 0.0001 0.0004
+-0.30 0.0003 0.0005 0.0006 0.0002
+-0.29 0.0006 0.0003 0.0002 0.0003
+-0.28 0.0006 0.0006 0.0018 0.0091
+-0.27 0.0004 0.0002 0.0052 0.0003
+-0.26 0.0005 0.0005 0.0004 0.0007
+-0.25 0.0028 0.0008 0.0005 0.0005
+-0.24 0.0004 0.0004 0.0004 0.0046
+-0.23 0.0006 0.0005 0.0004 0.0003
+-0.22 0.0034 0.0004 0.0003 0.0007
+-0.21 0.0010 0.0004 0.0004 0.0026
+-0.20 0.0016 0.0162 0.0007 0.0009
+-0.19 0.0028 0.0033 0.0004 0.0064
+-0.18 0.0204 0.0031 0.0004 0.0014
+-0.17 0.0006 0.0007 0.0005 0.0041
+-0.16 0.0024 0.0005 0.0007 0.0013
+-0.15 0.0145 0.0017 0.0006 0.0026
+-0.14 0.0009 0.0006 0.0004 0.0034
+-0.13 0.0031 0.0005 0.0020 0.0026
+-0.12 0.0078 0.0005 0.0004 0.0015
+-0.11 0.0008 0.0008 0.0021 0.0044
+-0.10 0.0062 0.0171 0.0015 0.0026
+-0.09 0.0033 0.0011 0.0017 0.0076
+-0.08 0.0037 0.0024 0.0024 0.0058
+-0.07 0.0043 0.0010 0.0046 0.0042
+-0.06 0.0018 0.0023 0.0029 0.0064
+-0.05 0.0030 0.0010 0.0090 0.0121
+-0.04 0.0326 0.0018 0.0231 0.0405
+-0.03 0.0129 0.0028 0.0036 0.0288
+-0.02 0.0238 0.0175 0.0042 0.0157
+-0.01 0.0340 0.0094 0.0271 0.0551
+ 0.00 0.0746 0.0665 0.0746 0.0746
+ 0.01 0.0528 0.0603 0.0746 0.0666
+ 0.02 0.0746 0.0367 0.0671 0.0487
+ 0.03 0.0345 0.0287 0.0341 0.0702
+ 0.04 0.0573 0.0172 0.0494 0.0196
+ 0.05 0.0386 0.0088 0.0501 0.0104
+ 0.06 0.0104 0.0081 0.0092 0.0049
+ 0.07 0.0037 0.0164 0.0063 0.0074
+ 0.08 0.0066 0.0072 0.0049 0.0108
+ 0.09 0.0024 0.0050 0.0065 0.0046
+ 0.10 0.0032 0.0024 0.0027 0.0047
+ 0.11 0.0027 0.0073 0.0024 0.0024
+ 0.12 0.0028 0.0040 0.0083 0.0046
+ 0.13 0.0014 0.0064 0.0015 0.0049
+ 0.14 0.0258 0.0027 0.0020 0.0022
+ 0.15 0.0020 0.0021 0.0011 0.0044
+ 0.16 0.0062 0.0020 0.0010 0.0061
+ 0.17 0.0011 0.0071 0.0012 0.0027
+ 0.18 0.0009 0.0150 0.0033 0.0016
+ 0.19 0.0021 0.0035 0.0010 0.0013
+ 0.20 0.0204 0.0019 0.0016 0.0008
+ 0.21 0.0033 0.0036 0.0009 0.0041
+ 0.22 0.0035 0.0342 0.0013 0.0008
+ 0.23 0.0040 0.0012 0.0006 0.0008
+ 0.24 0.0091 0.0010 0.0007 0.0060
+ 0.25 0.0011 0.0023 0.0014 0.0007
+ 0.26 0.0024 0.0013 0.0008 0.0013
+ 0.27 0.0035 0.0024 0.0013 0.0009
+ 0.28 0.0008 0.0016 0.0020 0.0062
+ 0.29 0.0011 0.0012 0.0014 0.0057
+ 0.30 0.0010 0.0013 0.0018 0.0008
+ 0.31 0.0043 0.0009 0.0040 0.0013
+ 0.32 0.0019 0.0049 0.0013 0.0008
+ 0.33 0.0049 0.0012 0.0017 0.0017
+ 0.34 0.0007 0.0033 0.0014 0.0012
+ 0.35 0.0032 0.0021 0.0012 0.0018
+ 0.36 0.0027 0.0032 0.0015 0.0008
+ 0.37 0.0019 0.0055 0.0022 0.0018
+ 0.38 0.0071 0.0085 0.0012 0.0014
+ 0.39 0.0119 0.0085 0.0035 0.0010
+ 0.40 0.0010 0.0009 0.0027 0.0005
+ 0.41 0.0066 0.0016 0.0040 0.0010
+ 0.42 0.0039 0.0024 0.0023 0.0006
+ 0.43 0.0022 0.0013 0.0073 0.0100
+ 0.44 0.0229 0.0466 0.0021 0.0012
+ 0.45 0.0034 0.0012 0.0084 0.0028
+ 0.46 0.0024 0.0047 0.0163 0.0018
+ 0.47 0.0115 0.0065 0.0046 0.0357
+ 0.48 0.0051 0.0040 0.0148 0.0030
+ 0.49 0.0013 0.0021 0.0276 0.0006
+ 0.50 0.0033 0.0031 0.0080 0.0028
+ 0.51 0.0033 0.0063 0.0422 0.0016
+ 0.52 0.0193 0.0028 0.0024 0.0031
+ 0.53 0.0022 0.0020 0.0175 0.0341
+ 0.54 0.0048 0.0323 0.0027 0.0010
+ 0.55 0.0064 0.0047 0.0080 0.0018
+ 0.56 0.0147 0.0023 0.0019 0.0122
+ 0.57 0.0012 0.0030 0.0021 0.0013
+ 0.58 0.0007 0.0067 0.0032 0.0006
+ 0.59 0.0018 0.0015 0.0017 0.0018
+ 0.60 0.0023 0.0211 0.0009 0.0025
+ 0.61 0.0006 0.0020 0.0051 0.0020
+ 0.62 0.0005 0.0030 0.0041 0.0012
+ 0.63 0.0016 0.0010 0.0004 0.0009
+ 0.64 0.0007 0.0017 0.0010 0.0010
+ 0.65 0.0032 0.0013 0.0012 0.0006
+ 0.66 0.0005 0.0015 0.0028 0.0021
+ 0.67 0.0031 0.0014 0.0013 0.0015
+ 0.68 0.0009 0.0035 0.0020 0.0006
+ 0.69 0.0009 0.0066 0.0006 0.0011
+ 0.70 0.0096 0.0012 0.0018 0.0005
+ 0.71 0.0014 0.0029 0.0006 0.0008
+ 0.72 0.0004 0.0013 0.0004 0.0009
+ 0.73 0.0011 0.0018 0.0006 0.0004
+ 0.74 0.0013 0.0010 0.0004 0.0008
+ 0.75 0.0003 0.0195 0.0011 0.0009
+ 0.76 0.0008 0.0007 0.0004 0.0012
+ 0.77 0.0004 0.0088 0.0006 0.0034
+ 0.78 0.0003 0.0042 0.0005 0.0004
+ 0.79 0.0006 0.0009 0.0005 0.0033
+ 0.80 0.0003 0.0010 0.0024 0.0008
+ 0.81 0.0009 0.0011 0.0014 0.0005
+ 0.82 0.0009 0.0008 0.0006 0.0009
+ 0.83 0.0015 0.0024 0.0006 0.0003
+ 0.84 0.0012 0.0012 0.0009 0.0005
+ 0.85 0.0031 0.0015 0.0013 0.0005
+ 0.86 0.0034 0.0014 0.0016 0.0002
+ 0.87 0.0051 0.0024 0.0021 0.0004
+ 0.88 0.0057 0.0059 0.0025 0.0002
+ 0.89 0.0020 0.0019 0.0062 0.0008
+ 0.90 0.0015 0.0026 0.0017 0.0003
+ 0.91 0.0013 0.0050 0.0028 0.0031
+ 0.92 0.0069 0.0145 0.0133 0.0004
+ 0.93 0.0054 0.0159 0.0064 0.0007
+ 0.94 0.0015 0.0068 0.0088 0.0007
+ 0.95 0.0131 0.0554 0.0065 0.0012
+ 0.96 0.0017 0.0170 0.0185 0.0032
+ 0.97 0.0029 0.0700 0.0027 0.0074
+ 0.98 0.0002 0.0103 0.0092 0.0332
+ 0.99 0.0001 0.0017 0.0297 0.0412
+ 1.00 0.0000 0.0005 0.0001 0.0423
+ 1.01 0.0001 0.0005 0.0001 0.0005
+ 1.02 0.0001 0.0034 0.0001 0.0001
+ 1.03 0.0000 0.0001 0.0001 0.0004
+ 1.04 0.0001 0.0008 0.0000 0.0012
+ 1.05 0.0001 0.0001 0.0001 0.0001
+ 1.06 0.0000 0.0001 0.0007 0.0001
+ 1.07 0.0000 0.0001 0.0003 0.0001
+ 1.08 0.0006 0.0002 0.0000 0.0003
+ 1.09 0.0000 0.0050 0.0004 0.0000
+ 1.10 0.0000 0.0001 0.0001 0.0001
+ 1.11 0.0009 0.0001 0.0009 0.0002
+ 1.12 0.0000 0.0003 0.0000 0.0000
+ 1.13 0.0000 0.0001 0.0002 0.0000
+ 1.14 0.0001 0.0001 0.0001 0.0001
+ 1.15 0.0001 0.0001 0.0002 0.0001
+ 1.16 0.0001 0.0001 0.0003 0.0011
+ 1.17 0.0000 0.0000 0.0001 0.0000
+ 1.18 0.0002 0.0001 0.0001 0.0000
+ 1.19 0.0000 0.0001 0.0001 0.0000
+ 1.20 0.0000 0.0003 0.0001 0.0001
+ 1.21 0.0000 0.0001 0.0000 0.0001
+ 1.22 0.0003 0.0001 0.0000 0.0000
+ 1.23 0.0000 0.0000 0.0054 0.0001
+ 1.24 0.0003 0.0001 0.0000 0.0001
+ 1.25 0.0002 0.0004 0.0000 0.0001
+ 1.26 0.0003 0.0000 0.0000 0.0000
+ 1.27 0.0000 0.0001 0.0011 0.0000
+ 1.28 0.0000 0.0033 0.0003 0.0006
+ 1.29 0.0001 0.0001 0.0000 0.0026
+ 1.30 0.0000 0.0010 0.0000 0.0002
+ 1.31 0.0000 0.0000 0.0002 0.0000
+ 1.32 0.0000 0.0000 0.0000 0.0000
+ 1.33 0.0002 0.0002 0.0000 0.0003
+ 1.34 0.0000 0.0001 0.0000 0.0000
+ 1.35 0.0000 0.0001 0.0000 0.0000
+ 1.36 0.0000 0.0000 0.0000 0.0000
+ 1.37 0.0002 0.0000 0.0001 0.0000
+ 1.38 0.0000 0.0000 0.0000 0.0000
+ 1.39 0.0001 0.0001 0.0000 0.0000
+ 1.40 0.0000 0.0000 0.0000 0.0000
+ 1.41 0.0000 0.0000 0.0000 0.0000
+ 1.42 0.0000 0.0000 0.0001 0.0000
+ 1.43 0.0002 0.0016 0.0005 0.0000
+ 1.44 0.0000 0.0000 0.0001 0.0000
+ 1.45 0.0000 0.0001 0.0010 0.0000
+ 1.46 0.0000 0.0000 0.0000 0.0000
+ 1.47 0.0000 0.0000 0.0000 0.0000
+ 1.48 0.0000 0.0001 0.0000 0.0000
+ 1.49 0.0000 0.0000 0.0000 0.0001
+ 1.50 0.0000 0.0000 0.0000 0.0000
+ 1.51 0.0000 0.0001 0.0000 0.0000
+ 1.52 0.0000 0.0000 0.0000 0.0000
+ 1.53 0.0000 0.0003 0.0002 0.0000
+ 1.54 0.0002 0.0000 0.0000 0.0033
+ 1.55 0.0000 0.0000 0.0000 0.0001
+ 1.56 0.0000 0.0000 0.0000 0.0000
+ 1.57 0.0000 0.0008 0.0001 0.0000
+ 1.58 0.0000 0.0000 0.0006 0.0000
+ 1.59 0.0000 0.0001 0.0000 0.0000
+ 1.60 0.0000 0.0001 0.0000 0.0000
+ 1.61 0.0000 0.0000 0.0000 0.0000
+ 1.62 0.0000 0.0000 0.0000 0.0000
+ 1.63 0.0000 0.0000 0.0000 0.0002
+ 1.64 0.0001 0.0001 0.0000 0.0000
+ 1.65 0.0000 0.0001 0.0000 0.0000
+ 1.66 0.0000 0.0000 0.0000 0.0000
+ 1.67 0.0000 0.0000 0.0002 0.0000
+ 1.68 0.0000 0.0000 0.0000 0.0000
+ 1.69 0.0000 0.0000 0.0001 0.0000
+ 1.70 0.0000 0.0000 0.0000 0.0000
+ 1.71 0.0000 0.0000 0.0000 0.0000
+ 1.72 0.0000 0.0000 0.0000 0.0000
+ 1.73 0.0000 0.0001 0.0000 0.0000
+ 1.74 0.0000 0.0002 0.0000 0.0000
+ 1.75 0.0000 0.0001 0.0000 0.0002
+ 1.76 0.0000 0.0000 0.0000 0.0000
+ 1.77 0.0000 0.0002 0.0000 0.0000
+ 1.78 0.0000 0.0000 0.0000 0.0000
+ 1.79 0.0000 0.0000 0.0000 0.0000
+ 1.80 0.0000 0.0001 0.0025 0.0000
+ 1.81 0.0000 0.0000 0.0000 0.0000
+ 1.82 0.0000 0.0000 0.0000 0.0000
+ 1.83 0.0000 0.0001 0.0000 0.0000
+ 1.84 0.0000 0.0000 0.0000 0.0000
+ 1.85 0.0000 0.0000 0.0000 0.0000
+ 1.86 0.0000 0.0000 0.0000 0.0015
+ 1.87 0.0000 0.0000 0.0000 0.0000
+ 1.88 0.0000 0.0000 0.0000 0.0000
+ 1.89 0.0000 0.0000 0.0000 0.0000
+ 1.90 0.0000 0.0000 0.0000 0.0000
+ 1.91 0.0001 0.0000 0.0002 0.0000
+ 1.92 0.0000 0.0000 0.0000 0.0000
+ 1.93 0.0000 0.0000 0.0000 0.0000
+ 1.94 0.0000 0.0000 0.0000 0.0000
+ 1.95 0.0000 0.0000 0.0000 0.0000
+ 1.96 0.0000 0.0000 0.0000 0.0000
+ 1.97 0.0000 0.0000 0.0000 0.0000
+ 1.98 0.0000 0.0000 0.0000 0.0000
+ 1.99 0.0000 0.0000 0.0000 0.0000
+ 2.00 0.0001 0.0000 0.0000 0.0000
+ 2.01 0.0000 0.0000 0.0000 0.0000
+ 2.02 0.0000 0.0000 0.0000 0.0000
+ 2.03 0.0000 0.0000 0.0000 0.0000
+ 2.04 0.0000 0.0000 0.0000 0.0000
+ 2.05 0.0000 0.0000 0.0000 0.0000
+ 2.06 0.0000 0.0000 0.0000 0.0000
+ 2.07 0.0000 0.0000 0.0003 0.0000
+ 2.08 0.0001 0.0000 0.0000 0.0000
+ 2.09 0.0000 0.0000 0.0000 0.0000
+ 2.10 0.0000 0.0000 0.0000 0.0000
+ 2.11 0.0001 0.0000 0.0000 0.0000
+ 2.12 0.0000 0.0000 0.0002 0.0000
+ 2.13 0.0000 0.0000 0.0001 0.0000
+ 2.14 0.0000 0.0000 0.0000 0.0000
+ 2.15 0.0000 0.0000 0.0000 0.0000
+ 2.16 0.0000 0.0000 0.0000 0.0000
+ 2.17 0.0000 0.0000 0.0000 0.0000
+ 2.18 0.0000 0.0000 0.0000 0.0000
+ 2.19 0.0001 0.0000 0.0000 0.0000
+ 2.20 0.0000 0.0000 0.0000 0.0000
+ 2.21 0.0000 0.0000 0.0001 0.0000
+ 2.22 0.0000 0.0000 0.0000 0.0000
+ 2.23 0.0000 0.0000 0.0000 0.0000
+ 2.24 0.0000 0.0000 0.0000 0.0000
+ 2.25 0.0000 0.0000 0.0000 0.0002
+ 2.26 0.0001 0.0015 0.0000 0.0000
+ 2.27 0.0000 0.0000 0.0000 0.0000
+ 2.28 0.0000 0.0000 0.0000 0.0000
+ 2.29 0.0000 0.0000 0.0034 0.0000
+ 2.30 0.0000 0.0000 0.0000 0.0000
+ 2.31 0.0000 0.0000 0.0000 0.0000
+ 2.32 0.0000 0.0033 0.0000 0.0000
+ 2.33 0.0000 0.0000 0.0000 0.0000
+ 2.34 0.0000 0.0000 0.0000 0.0000
+ 2.35 0.0000 0.0000 0.0000 0.0000
+ 2.36 0.0000 0.0000 0.0000 0.0000
+ 2.37 0.0000 0.0000 0.0000 0.0000
+ 2.38 0.0000 0.0000 0.0000 0.0000
+ 2.39 0.0000 0.0000 0.0000 0.0000
+ 2.40 0.0000 0.0000 0.0000 0.0000
+ 2.41 0.0000 0.0000 0.0000 0.0000
+ 2.42 0.0000 0.0000 0.0000 0.0000
+ 2.43 0.0000 0.0003 0.0001 0.0000
+ 2.44 0.0000 0.0001 0.0000 0.0002
+ 2.45 0.0000 0.0000 0.0000 0.0000
+ 2.46 0.0000 0.0000 0.0000 0.0000
+ 2.47 0.0000 0.0001 0.0000 0.0000
+ 2.48 0.0000 0.0000 0.0000 0.0000
+ 2.49 0.0000 0.0000 0.0000 0.0000
+ 2.50 0.0000 0.0000 0.0000 0.0000
+ 2.51 0.0002 0.0004 0.0048 0.0004
